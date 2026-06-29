@@ -92,9 +92,11 @@ A smart AI chatbot developed to provide mental wellness support using AI technol
 
 <p align="left">
 
-- 📧 **Email:** aishwaryatalawar3@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aishwarya-talawar-06a07327a?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌐 **Portfolio:** https://yourportfolio.com
+-## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aishwarya-talawar-06a07327a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: aishwaryatalawar3@gmail.com
+- 💻 GitHub: https://github.com/aishwaryatalawar3
 
 </p>
 
